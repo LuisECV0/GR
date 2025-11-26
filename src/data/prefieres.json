@@ -1,0 +1,98 @@
+{
+  "1-copa": {
+    "question": [
+      "¿Qué prefieres, tener WiFi gratis donde sea o cargar tu celular al 100% en 5 minutos?",
+      "¿Qué prefieres, comer tu snack favorito ilimitadamente o tener Netflix gratis de por vida?",
+      "¿Qué prefieres, que todos tus mensajes tengan autocorrect horrible o nunca usar emojis?",
+      "¿Qué prefieres, llegar siempre 10 minutos tarde o siempre 20 minutos temprano?",
+      "¿Qué prefieres, recordar todos los nombres pero olvidar las caras, o recordar las caras pero olvidar los nombres?",
+      "¿Qué prefieres, no dormir una noche o no usar tu celular una noche?",
+      "¿Qué prefieres, tener un día sin redes o un día sin música?",
+      "¿Qué prefieres, perder tus audífonos por un mes o tu cargador por una semana?",
+      "¿Qué prefieres, tener siempre frío o siempre calor?",
+      "¿Qué prefieres, que tu crush vea tu historial de YouTube o tu historial de Spotify?",
+      "¿Qué prefieres, que te llamen por teléfono cada vez que alguien te escribe o que solo puedas mandar audios?",
+      "¿Qué prefieres, solo poder usar ropa negra o solo ropa colorida?",
+      "¿Qué prefieres, que tu celular suene con volumen máximo en un momento incómodo o que se apague en un momento importante?",
+      "¿Qué prefieres, que te lleguen mensajes a las 3 AM o que te llamen a las 6 AM?",
+      "¿Qué prefieres, comer algo nuevo cada día o comer tu plato favorito repetido?",
+      "¿Qué prefieres, vivir cerca de tus amigos o vivir cerca de tu trabajo/estudios?",
+      "¿Qué prefieres, ver solo películas o solo series por un año?",
+      "¿Qué prefieres, tomar café sin azúcar o comer pizza sin queso?",
+      "¿Qué prefieres, tener un error ortográfico para siempre en tu tatuaje o un emoji en tu DNI?",
+      "¿Qué prefieres, que tu mamá revise tus memes guardados o tus screenshots?"
+    ]
+  },
+  "3-copas": {
+    "question": [
+      "¿Qué prefieres, que tu ex vea tu lista de notas del celular o que tu crush vea tus borradores de mensajes?",
+      "¿Qué prefieres, que tus amigos descubran tu playlist secreta o tu carpeta de memes prohibidos?",
+      "¿Qué prefieres, volver a escribirle a tu ex por 5 minutos o dejar que alguien revise tu galería 30 segundos?",
+      "¿Qué prefieres, quedarte sin internet en una fiesta o quedarte sin batería?",
+      "¿Qué prefieres, que tu crush vea tu historial de compras o tu historial de chats eliminados?",
+      "¿Qué prefieres, ser ignorado por tu crush o ser respondido con monosílabos siempre?",
+      "¿Qué prefieres, aparecer en una historia vergonzosa de un amigo o que un desconocido te etiquete sin permiso?",
+      "¿Qué prefieres, que te graben bailando mal o cantando mal?",
+      "¿Qué prefieres, mandar un mensaje equivocado a tu jefe o a tu ex?",
+      "¿Qué prefieres, reencontrarte con alguien del pasado que te incomoda o con alguien que te atrae pero te da vergüenza?",
+      "¿Qué prefieres, tener una cita totalmente silenciosa o una cita donde no te dejen hablar?",
+      "¿Qué prefieres, que te cancelen una salida a último minuto o esperar 2 horas a alguien?",
+      "¿Qué prefieres, que tus padres encuentren tus conversaciones con tu grupo de amigos o tus memes privados?",
+      "¿Qué prefieres, no volver a usar Instagram por un mes o TikTok por un mes?",
+      "¿Qué prefieres, abrir un mensaje que no querías ver o ignorar un mensaje que no querías ignorar?",
+      "¿Qué prefieres, que tu crush te invite a salir cuando estás destruido físicamente o cuando estás incómodo socialmente?",
+      "¿Qué prefieres, que alguien se entere de tu peor anécdota borracho o de tu peor crush secreto?",
+      "¿Qué prefieres, perder tu billetera en una fiesta o perder tu celular en una fiesta (pero lo recuperas)?",
+      "¿Qué prefieres, que te toque hablar con el ex de tu pareja/amigo o con el crush de tu pareja/amigo?",
+      "¿Qué prefieres, que te stalkee alguien inesperado o stalkees a la persona equivocada sin querer?"
+    ]
+  },
+  "5-copas": {
+    "question": [
+      "¿Qué prefieres, que tu crush vea tus mensajes eliminados o tus fotos archivadas?",
+      "¿Qué prefieres, reencontrarte con un casi-algo que no superaste o con alguien que te dejó en visto para siempre?",
+      "¿Qué prefieres, besar a alguien inesperado por un reto o llamar a tu ex sobrio?",
+      "¿Qué prefieres, que tu peor foto borracho se viralice o que alguien filtre tu audio más vergonzoso?",
+      "¿Qué prefieres, volver a ver a un amor del pasado por una noche o conocer a alguien nuevo pero que vive lejos?",
+      "¿Qué prefieres, pasar un día completo con tu ex o con alguien que te cae mal?",
+      "¿Qué prefieres, que lean tus conversaciones con tu mejor amigo o con tu crush?",
+      "¿Qué prefieres, admitir tu mayor metida de pata en público o admitir tu mayor crush secreto aquí mismo?",
+      "¿Qué prefieres, confesar quién te gusta frente al grupo o dejar que alguien revise tus chats de Instagram?",
+      "¿Qué prefieres, tener una cita perfecta que termina mal o una cita mala que termina muy bien?",
+      "¿Qué prefieres, perder los recuerdos de tu última relación o recordar cada detalle para siempre?",
+      "¿Qué prefieres, volver a un lugar con recuerdos dolorosos o evitar ese lugar pero no tener cierre?",
+      "¿Qué prefieres, involucrarte de nuevo con alguien complicado o quedarte solo un tiempo largo?",
+      "¿Qué prefieres, hablar con sinceridad total por 24 horas o que todos sean sinceros contigo 24 horas?",
+      "¿Qué prefieres, saber la verdad incómoda sobre alguien aquí o que sepan una verdad incómoda sobre ti?",
+      "¿Qué prefieres, volver con alguien que te marcó o soltar algo que aún quieres?",
+      "¿Qué prefieres, que un desconocido lea tus mensajes anclados o tus screenshots guardados?",
+      "¿Qué prefieres, enfrentar de una vez a alguien con quien tienes tensión o seguir evitándolo?",
+      "¿Qué prefieres, arruinar un almost-kiss perfecto o que alguien arruine el tuyo?",
+      "¿Qué prefieres, que tu próxima fiesta sea inolvidable por lo buena o inolvidable por el caos?"
+    ]
+  },
+  "hecho-polvo": {
+    "question": [
+      "¿Qué prefieres, saber exactamente quién habla de ti a tus espaldas o saber qué dicen… pero no quién lo dijo?",
+      "¿Qué prefieres, revivir tu peor decisión en una fiesta o que el grupo la vea como si fuera un video?",
+      "¿Qué prefieres, que alguien de aquí descubra tu secreto más sensible o descubrir tú el de alguien más… sin poder decir nada?",
+      "¿Qué prefieres, volver a involucrarte con la persona más tóxica de tu pasado o ver a tu mejor amigo hacerlo?",
+      "¿Qué prefieres, saber qué piensa realmente tu crush de ti o que tu crush sepa exactamente qué piensas tú?",
+      "¿Qué prefieres, que se filtre tu mayor arrepentimiento o tu mayor deseo oculto?",
+      "¿Qué prefieres, que alguien aquí sepa quién fue tu peor error amoroso o que sepan quién fue tu mejor persona aunque la arruinaste?",
+      "¿Qué prefieres, tener una conversación pendiente que te podría romper o nunca tenerla y quedarte con la duda?",
+      "¿Qué prefieres, recordar todo lo que dijiste borracho o escuchar todo lo que otros dijeron contigo borrachos?",
+      "¿Qué prefieres, que la persona que te importa sepa qué parte de ti te avergüenza o que tú descubras la de ellos?",
+      "¿Qué prefieres, enfrentarte a una verdad que podrías odiar o mantener una ilusión que te hace feliz?",
+      "¿Qué prefieres, que alguien aquí lea tus notas personales o tus mensajes anclados más viejos?",
+      "¿Qué prefieres, pasar una noche épica pero que te complique la vida después o una noche aburrida pero segura?",
+      "¿Qué prefieres, que tu número termine en el celular equivocado o que alguien del pasado vuelva hoy?",
+      "¿Qué prefieres, tener una conversación profunda con alguien que te marcó o evitarla para siempre pero sin cierre?",
+      "¿Qué prefieres, volver a sentir algo que te rompió pero que extrañas o nunca sentirlo otra vez?",
+      "¿Qué prefieres, descubrir que alguien te mintió por protegerte o que te dijo la verdad sabiendo que te dolería?",
+      "¿Qué prefieres, que tu próxima relación sea intensa pero corta o estable pero sin intensidad?",
+      "¿Qué prefieres, saber quién piensa en ti por las noches o que esa persona sepa que tú piensas en ella?",
+      "¿Qué prefieres, revivir tu mejor noche sabiendo que no se repetirá o olvidar esa noche para seguir adelante?"
+    ]
+  }
+}

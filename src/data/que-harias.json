@@ -1,0 +1,98 @@
+{
+  "1-copa": {
+    "question": [
+      "¿Qué pasaría si te encuentras con alguien que fue tu 'casi algo' y te pregunta por qué nunca pasó nada?",
+      "¿Qué pasaría si un amigo sube una foto tuya vieja y vergonzosa y se vuelve viral entre tu grupo?",
+      "¿Qué pasaría si tu crush accidentalmente da like a una foto tuya del 2015?",
+      "¿Qué pasaría si te enteras de que alguien que te gustó mucho en el pasado también estaba interesado en ti?",
+      "¿Qué pasaría si un excompañero de colegio te escribe solo para decirte que te admiraba?",
+      "¿Qué pasaría si revives un recuerdo que habías olvidado y te das cuenta de que sí te marcó?",
+      "¿Qué pasaría si aparece alguien diciendo que te confundió con su amor platónico?",
+      "¿Qué pasaría si tus amigos encuentran una playlist tuya dedicada a alguien secreto?",
+      "¿Qué pasaría si un amigo revela una costumbre que tú tenías antes y que creías que nadie notaba?",
+      "¿Qué pasaría si te toca explicar en voz alta un sueño extraño que involucraba a alguien del grupo?",
+      "¿Qué pasaría si ves fotos tuyas de hace años y te das cuenta de cuánto cambiaste emocionalmente?",
+      "¿Qué pasaría si tu familia encuentra una carta que escribiste para alguien y nunca entregaste?",
+      "¿Qué pasaría si un amigo encuentra un mensaje que pensabas que habías borrado hace años?",
+      "¿Qué pasaría si te cruzas con tu ex en un momento totalmente random y deben saludarse sí o sí?",
+      "¿Qué pasaría si te toca explicar quién fue tu primer crush real y cómo terminó esa historia?",
+      "¿Qué pasaría si alguien te pregunta cuál fue la última vez que te sentiste realmente valorado?",
+      "¿Qué pasaría si vuelves a ver un objeto que te recuerda a alguien que ya no está en tu vida?",
+      "¿Qué pasaría si descubres que un amigo te tenía un apodo secreto y todos quieren saber cuál?",
+      "¿Qué pasaría si alguien te pregunta por el mensaje que más te arrepientes de haber enviado?",
+      "¿Qué pasaría si te toca decir qué persona del pasado te gustaría volver a ver solo una vez?"
+    ]
+  },
+  "3-copas": {
+    "question": [
+      "¿Qué pasaría si te preguntan cuál fue la relación que te cambió para bien, aunque haya terminado mal?",
+      "¿Qué pasaría si te toca contar la vez que dejaste ir a alguien que sí querías?",
+      "¿Qué pasaría si alguien admite que tú eras su plan perfecto, pero no en el momento correcto?",
+      "¿Qué pasaría si un amigo del grupo dice que tú lo decepcionaste una vez y quiere explicarlo?",
+      "¿Qué pasaría si aparece un mensaje viejo tuyo donde confesabas algo importante?",
+      "¿Qué pasaría si alguien dice que tú eras el crush de un amigo cercano y todos quieren saber quién?",
+      "¿Qué pasaría si te toca decir qué persona te enseñó la lección más dura en el amor?",
+      "¿Qué pasaría si debes admitir cuál fue tu mayor error en una relación pasada?",
+      "¿Qué pasaría si descubres que alguien que tú querías impresionar nunca entendió tus señales?",
+      "¿Qué pasaría si te preguntan quién fue la última persona que te hizo sentir nervios sinceros?",
+      "¿Qué pasaría si recuerdas un día específico donde tu vida pudo haber cambiado y no lo notaste?",
+      "¿Qué pasaría si alguien del grupo dice que pensó que ustedes iban a terminar juntos en algún momento?",
+      "¿Qué pasaría si te toca explicar por qué perdiste contacto con alguien importante para ti?",
+      "¿Qué pasaría si alguien revela algo que sabía de tu relación pasada y nunca dijo para no herirte?",
+      "¿Qué pasaría si te toca mencionar a la persona que te enseñó a dejar ir?",
+      "¿Qué pasaría si te llega un mensaje que dice 'perdón por llegar tarde a tu vida' de alguien que quisiste?",
+      "¿Qué pasaría si un ex amigo reaparece diciendo que extraña cómo eras antes?",
+      "¿Qué pasaría si te toca explicar quién fue la persona que más te hizo sentir en casa?",
+      "¿Qué pasaría si te preguntan si alguna vez estuviste con alguien solo por no estar solo?",
+      "¿Qué pasaría si alguien te pide que cuentes tu mayor 'qué hubiera pasado si...?' sentimental?"
+    ]
+  },
+  "5-copas": {
+    "question": [
+      "¿Qué pasaría si te encuentras con tu ex y ambos admiten que aún queda algo sin cerrar?",
+      "¿Qué pasaría si alguien te pregunta cuál es la persona que todavía te duele recordar?",
+      "¿Qué pasaría si tu 'casi algo' aparece diciendo que tú fuiste su oportunidad perdida?",
+      "¿Qué pasaría si te toca explicar la peor mentira que te dijeron en una relación?",
+      "¿Qué pasaría si un amigo confiesa que tú rompiste una amistad sin darte cuenta?",
+      "¿Qué pasaría si debes decir cuál es la decisión que más afectó tu vida afectiva?",
+      "¿Qué pasaría si alguien del grupo admite que tú le rompiste el corazón sin saberlo?",
+      "¿Qué pasaría si te toca escoger entre recuperar un amor perdido o una amistad perdida, sabiendo que no tendrás la otra jamás?",
+      "¿Qué pasaría si descubres que alguien habló mal de ti para alejarte de una persona que te gustaba?",
+      "¿Qué pasaría si te toca admitir cuál fue el mensaje que nunca enviaste pero debiste enviar?",
+      "¿Qué pasaría si una persona vuelve a tu vida diciendo que ahora sí está listo para ti?",
+      "¿Qué pasaría si alguien te pregunta qué parte de tu pasado sentimental aún te persigue?",
+      "¿Qué pasaría si te toca confesar qué relación mantuviste solo por costumbre?",
+      "¿Qué pasaría si debes admitir que tú también fuiste el villano en una historia?",
+      "¿Qué pasaría si te toca explicar cómo sería tu vida hoy si hubieras elegido a otra persona?",
+      "¿Qué pasaría si tu última pareja dice que aún piensa en ti cuando escucha cierta canción?",
+      "¿Qué pasaría si un amigo revela que sabía que tu relación iba a fallar desde el inicio?",
+      "¿Qué pasaría si escuchas una versión de tu historia que te deja como el culpable?",
+      "¿Qué pasaría si te toca admitir qué persona te hacía feliz pero no supiste cuidarla?",
+      "¿Qué pasaría si alguien te pregunta por qué sigues comparando a todos con una persona del pasado?"
+    ]
+  },
+  "hecho-polvo": {
+    "question": [
+      "¿Qué pasaría si tuvieras que enfrentar a la persona que más te rompió emocionalmente y escuchar su versión completa?",
+      "¿Qué pasaría si te enteras de que tu ex sí quería volver contigo, pero alguien de confianza te lo ocultó?",
+      "¿Qué pasaría si aparece alguien diciendo que tú fuiste la mejor persona en su vida y tú no lo sabías?",
+      "¿Qué pasaría si te preguntan a quién nunca lograste superar del todo y tienes que decirlo en voz alta?",
+      "¿Qué pasaría si debes admitir la relación que arruinaste por inseguridad, orgullo o miedo?",
+      "¿Qué pasaría si alguien del grupo dice que tú lo hiciste sentir reemplazable en algún momento?",
+      "¿Qué pasaría si tuvieras que pedir perdón a una persona que ya no está disponible para escucharlo?",
+      "¿Qué pasaría si alguien te dice que tu ausencia le dañó más que tu rechazo?",
+      "¿Qué pasaría si te toca contar qué sueño abandonaste por otra persona… y si valió la pena?",
+      "¿Qué pasaría si un amor del pasado vuelve con la verdad de por qué te dejó… y te sorprende?",
+      "¿Qué pasaría si te toca describir el momento exacto en el que dejaste de confiar en alguien?",
+      "¿Qué pasaría si descubres que tú fuiste el recuerdo más doloroso de alguien que tú sí querías?",
+      "¿Qué pasaría si tuvieses que explicar qué parte de ti cambió para siempre después de una persona?",
+      "¿Qué pasaría si te preguntan cuál fue el momento donde realmente te rompiste por dentro?",
+      "¿Qué pasaría si alguien revela que tú lo lastimaste en un punto que nunca te contó?",
+      "¿Qué pasaría si te toca admitir qué persona todavía te aparece en sueños, aunque no quieras?",
+      "¿Qué pasaría si debes elegir entre decir la verdad dolorosa o mantener un recuerdo idealizado?",
+      "¿Qué pasaría si la persona que perdiste te pide que digas todo lo que nunca te atreviste?",
+      "¿Qué pasaría si te toca enfrentar el hecho de que idealizaste a alguien que no era para ti?",
+      "¿Qué pasaría si te preguntan qué parte de tu corazón no has recuperado desde tu última caída fuerte?"
+    ]
+  }
+}
