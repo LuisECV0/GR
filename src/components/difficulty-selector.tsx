@@ -10,7 +10,7 @@ interface DifficultySelectorProps {
   onBack: () => void
 }
 
-export default function DifficultySelector({ gameId, GameComponent, onBack }: DifficultySelectorProps) {
+export default function DifficultySelector({ gameId, GameComponent }: DifficultySelectorProps) {
   const [selectedDifficulty, setSelectedDifficulty] = useState<string | null>(null)
 
   const difficulties = [

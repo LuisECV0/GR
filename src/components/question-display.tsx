@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { motion } from "framer-motion"
-import { ChevronRight, ArrowLeft } from "lucide-react"
+import { ChevronRight } from "lucide-react"
 
 interface QuestionDisplayProps {
   items: { truth?: string; dare?: string; question?: string }[]
@@ -11,7 +11,7 @@ interface QuestionDisplayProps {
   gameType: "verdad-reto" | "que-harias" | "prefieres"
 }
 
-export default function QuestionDisplay({ items, difficulty, onBack, gameType }: QuestionDisplayProps) {
+export default function QuestionDisplay({ items, gameType }: QuestionDisplayProps) {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [showTruth, setShowTruth] = useState<boolean | null>(null)
 
