@@ -38,7 +38,7 @@ export default function Home() {
           className="text-center mb-16"
         >
           <h1 className="text-6xl md:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary mb-4">
-            Party Hub
+            ReuGame
           </h1>
           <p className="text-muted-foreground text-lg">Diversión sin puntos, pura fiesta</p>
         </motion.div>

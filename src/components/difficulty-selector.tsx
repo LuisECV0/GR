@@ -19,12 +19,12 @@ export default function DifficultySelector({ gameId, GameComponent, onBack }: Di
       color: "from-green-400 to-emerald-600" 
     },
     {
-      id: "2-copas",
-      name: "2 copas",
+      id: "3-copas",
+      name: "3 copas",
       color: "from-yellow-400 to-orange-600",
     },
     {
-      id: "5 copas",
+      id: "5-copas",
       name: "5 copas",
       color: "from-red-500 to-rose-700",
     },

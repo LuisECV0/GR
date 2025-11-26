@@ -53,22 +53,9 @@ export default function QuestionDisplay({ items, difficulty, onBack, gameType }:
 
   return (
     <div className="flex flex-col min-h-screen bg-background">
-      <motion.div
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
-        className="sticky top-0 z-40 flex items-center justify-between p-4 md:p-6 bg-background/80 backdrop-blur-sm border-b border-primary/20"
-      >
-        <button
-          onClick={onBack}
-          className="flex items-center gap-2 px-4 py-2 rounded-lg bg-muted hover:bg-muted/80 text-foreground transition-colors"
-        >
-          <ArrowLeft size={20} />
-          <span className="hidden sm:inline">Atrás</span>
-        </button>
         <div className="text-xs md:text-sm text-muted-foreground">
           Pregunta {currentIndex + 1} de {items.length}
         </div>
-      </motion.div>
 
       <motion.div
         initial={{ opacity: 0 }}
@@ -84,7 +71,7 @@ export default function QuestionDisplay({ items, difficulty, onBack, gameType }:
         >
           <div className="bg-gradient-to-br from-primary/10 to-secondary/10 border-2 border-primary/50 rounded-3xl p-6 md:p-12 mb-8 min-h-[250px] md:min-h-[300px] flex items-center justify-center">
             <p className="text-xl md:text-3xl font-bold text-foreground text-center leading-relaxed text-balance">
-              {displayText}
+              {displayText} 
             </p>
           </div>
 
